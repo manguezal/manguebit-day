@@ -6405,7 +6405,7 @@ iframe.twitter-share-button {
 /* Buttons
 ---------------------------------------------------------- */
 .wpb_button {
-  display: inline-block;
+  display: initial;
   *display: inline;
   /* IE7 inline-block hack */
   *zoom: 1;
@@ -6419,14 +6419,8 @@ iframe.twitter-share-button {
   text-align: center;
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
   vertical-align: middle;
-  cursor: pointer;
-  background-color: #f7f7f7;
-  border: 1px solid #cccccc;
-  *border: 0;
-  border-bottom-color: #b3b3b3;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
-  border-radius: 2px;
   *margin-left: .3em;
 }
 .wpb_button:hover,
@@ -6528,8 +6522,6 @@ span.wpb_btn-mini {
   color: rgba(255, 255, 255, 0.75);
 }
 .wpb_button {
-  border-color: #ccc;
-  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1);
 }
 .wpb_btn-primary {
   background-color: #0088cc;
