@@ -1283,7 +1283,7 @@ p,
 
 .timeline-block:last-child {
     margin-bottom: 0;
-    background-color: #F1F1F1;
+    background-color: #FFF;
 }
 
 @media only screen and (min-width: 1170px) {
