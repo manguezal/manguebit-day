@@ -6877,7 +6877,7 @@ button.close {
     }
     .slick-slide-sponsor{
         float: inherit;
-        max-width: 350px;
+        max-width: 300px;
         margin-left: 40px;
     }
 }
