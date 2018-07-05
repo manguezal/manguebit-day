@@ -2,7 +2,7 @@
   COLOR PALLETTES : GREEN
   ------------------------------------------------
 
-  Green 1        : #4eae49;
+  Green 1        : #2D2D83;
   Dark Grey      : #3b3b3b;
   Medium Grey    : #5c5c5c;
   Light Grey     : #818181;
@@ -38,11 +38,11 @@ body, .timeline-content h2 {
 /* green
  * ----- */
 ::-moz-selection {
-    background: #4eae49;
+    background: #2D2D83;
     color: #FFF;
 }
 ::selection {
-    background: #4eae49;
+    background: #2D2D83;
     color: #FFF;
 }
 .header, .sub-header {
@@ -50,33 +50,33 @@ body, .timeline-content h2 {
 }
 /*color*/
 a, a:hover, a:focus, .speaker-info p, .highlighted-plan .price, .highlighted-plan .plan-name, a.popup-video:hover i {
-    color: #4eae49;
+    color: #2D2D83;
 }
 .benefit-item .benefit-icon i {
-    color: #4eae49;
+    color: #2D2D83;
 }
 /*background*/
 .timeline::before {
-    background: #4eae49;
+    background: #2D2D83;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.current-menu-parent > a, .navbar-default .navbar-nav>.current-menu-parent > a:focus, .navbar-default .navbar-nav>.current-menu-parent > a:hover {
     color: #FFF;
-    background-color: #4eae49;
+    background-color: #2D2D83;
 }
 /*border*/
 .post-wrap .sticky,
 .timeline-bullet, .highlighted-plan {
-    border-color: #4eae49;
+    border-color: #2D2D83;
 }
 /*background color*/
 .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover, .dropdown-menu > .active > a, .dropdown-menu > .active > a:focus, .dropdown-menu > .active > a:hover {
-    background-color: #4eae49;
+    background-color: #2D2D83;
 }
 /*
   BUTTONS
   ------- */
 .btn-default {
-    color: #4eae49;
+    color: #2D2D83;
     border-color: #FFF;
 }
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active {
@@ -91,13 +91,13 @@ a, a:hover, a:focus, .speaker-info p, .highlighted-plan .price, .highlighted-pla
     background-color: #3b3b3b;
 }
 .btn-success {
-    background-color: #4eae49;
-    border-color: #4eae49;
+    background-color: #2D2D83;
+    border-color: #2D2D83;
 }
 .btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active {
     background-color: #FFF;
-    border-color: #4eae49;
-    color: #4eae49;
+    border-color: #2D2D83;
+    color: #2D2D83;
 }
 .btn-outline {
     color: #8C8C8C;
@@ -110,8 +110,8 @@ a, a:hover, a:focus, .speaker-info p, .highlighted-plan .price, .highlighted-pla
 }
 .vc_tta-tabs.vc_tta-tabs-position-top:not([class*="vc_tta-gap"]):not(.vc_tta-o-no-fill) .vc_tta-tab.vc_active > a {
     color: #FFF !important;
-    background-color: #4eae49 !important;
+    background-color: #2D2D83 !important;
 }
 .vc_tta-panel.vc_active .vc_tta-panel-heading .vc_tta-panel-title a, .vc_tta.vc_general .vc_tta-panel-title:hover a {
-    color: #4eae49 !important;
+    color: #2D2D83 !important;
 }
