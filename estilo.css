@@ -236,9 +236,9 @@ header{height: 700px; background: url(img/bg-topo.png) no-repeat center; backgro
 #sponsors .guaiamum{max-width: 1400px; align-content: center; justify-content: center }
 #sponsors .guaiamum li{width:320px;}
 #sponsors .caranguejo {display: flex; align-content: center; justify-content: center}
-#sponsors .caranguejo li{width: 250px;}
+#sponsors .caranguejo li{width: 260px;}
 #sponsors .aratu {display: flex; align-items: center; justify-content: center}
-#sponsors .aratu li{width:150px;}
+#sponsors .aratu li{width:140px;}
 
 /* RODAPE */
 .rodape {
