@@ -235,12 +235,16 @@ header{height: 700px; background: url(img/bg-topo.png) no-repeat center; backgro
 #sponsors li {filter: grayscale(21) brightness(1.3); margin: 0 1rem}
 #sponsors li:hover {filter: grayscale(0) brightness(1);}
 #sponsors li a{display: block}
+#sponsors .cavalomarinho{max-width: 1600px; align-content: center; justify-content: center }
+#sponsors .cavalomarinho li{width:500px;}
 #sponsors .guaiamum{max-width: 1400px; align-content: center; justify-content: center }
 #sponsors .guaiamum li{width:320px;}
-#sponsors .caranguejo {max-width: 1400px; align-content: center; justify-content: center}
-#sponsors .caranguejo li{width: 300px;}
+#sponsors .caranguejo {max-width: 1300px; align-content: center; justify-content: center}
+#sponsors .caranguejo li{width: 280px;}
 #sponsors .aratu {max-width: 1200px; display: flex; align-items: center; justify-content: center}
-#sponsors .aratu li{width:140px;}
+#sponsors .aratu li{width:160px;}
+#sponsors .apoio {max-width: 1000px; display: flex; align-items: center; justify-content: center}
+#sponsors .apoio li{width:100px;}
 
 /* RODAPE */
 .rodape {
